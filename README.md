@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fer-lour
-- 👀 I’m interested in coding and programong in general.
+- 👀 I’m interested in coding and programing in general.
 - 🌱 I’m currently learning web programing 
 - 💞️ I’m looking to collaborate on ... ??
 - 📫 How to reach me ...
